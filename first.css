@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    background-image: url('images/back3.jpg');
+   
+}
+#lo{
+   
+
+}
+#ko{
+    border: 1px solid;
+    background-color: cornflowerblue;
+    
+}
+.bah{
+    border-radius: 0vmax;
+    text-decoration: dotted;
+}
+#dur{
+   margin-top: 100px;
+   background-color: white;
+   text-decoration-color: white;
+}
